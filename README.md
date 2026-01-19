@@ -21,6 +21,6 @@
 - Secure an internship in AI / Software Development
 
 ##  Connect With Me
-- LinkedIn: add-your-link-here
+- LinkedIn: https://www.linkedin.com/in/rana-zaryab-ai-ml489/
 
  Learning every day, building step by step
