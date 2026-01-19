@@ -1,2 +1,26 @@
-# github.com-zaryab489
-GitHub profile README showcasing my Python projects and AI learning journey.
+# Hi  I'm Rana Zaryab
+
+ Python Learner | Aspiring AI Engineer | Computer Science Student  
+
+##  Currently Learning
+- Python
+- Machine Learning basics
+- Problem solving with code
+
+##  Skills
+- Python
+- Git & GitHub
+- Logical Thinking
+
+##  Projects
+-  Rent Calculator using Python  
+   https://github.com/zaryab489/rent-calculator-python
+
+##  Goals
+- Build real-world Python & AI projects
+- Secure an internship in AI / Software Development
+
+##  Connect With Me
+- LinkedIn: add-your-link-here
+
+ Learning every day, building step by step
